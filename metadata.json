@@ -1,0 +1,6 @@
+{
+  "name": "Sharma Salon",
+  "description": "Ultra-premium luxury women's salon website for Sharma Salon in Ahmedabad, Gujarat featuring hair coloring, treatments, styling, bridal beauty, price lists, and interactive gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
